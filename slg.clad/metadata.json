@@ -1,0 +1,7 @@
+{
+  "name": "Smart Living Guide main",
+  "description": "A comprehensive wellness and lifestyle management application designed for busy adults, bachelors, and students living in hostels/PGs, featuring AI-powered tools for nutrition and self-reflection.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
